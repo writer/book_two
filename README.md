@@ -1,3 +1,3 @@
-book_two; about selfish someone.
+book_two; about selfishness.
 
-quite a story.
+mostly words.

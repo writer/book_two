@@ -1,3 +1,3 @@
-book_two; about selfishness.
+book_two; about me.
 
 mostly words.

@@ -1,3 +1,3 @@
-book_two; about visual thinker.
+book_two; about visual thinkers.
 
 mostly words.

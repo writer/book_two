@@ -1,5 +1,5 @@
 book_two; about visual thinkers.
 
-no inner voice.
+no inner voices.
 
 still, mostly words.
